@@ -15,13 +15,13 @@ API**.
 For exchanges we recommend to also read...
 
 * :ref:`CLI Wallet and the Connectivity <cli-wallet-intro>` 
-* `What is different BitShares <http://how.bitshares.works/en/latest/technology/difference_bitshares.html>`_
+* `What is different BitShares <http://docs.bitshares.eu/en/latest/technology/difference_bitshares.html>`_
 * :ref:`often-used-calls`
-* `User Guide : BitShares Decentralized Exchange (DEX) <https://how.bitshares.works/en/latest/bts_holders/dex.html>`_
+* `User Guide : BitShares Decentralized Exchange (DEX) <https://docs.bitshares.eu/en/latest/bts_holders/dex.html>`_
 
-  1. `Trading <https://how.bitshares.works/en/latest/bts_holders/dex_trading.html>`_
-  2. `Short Selling BitAssets <https://how.bitshares.works/en/latest/bts_holders/dex_short.html>`_ 
-  3. `MarginCall Mechanics <https://how.bitshares.works/en/latest/bts_holders/dex_margin_mechanics.html>`_ 
+  1. `Trading <https://docs.bitshares.eu/en/latest/bts_holders/dex_trading.html>`_
+  2. `Short Selling BitAssets <https://docs.bitshares.eu/en/latest/bts_holders/dex_short.html>`_
+  3. `MarginCall Mechanics <https://docs.bitshares.eu/en/latest/bts_holders/dex_margin_mechanics.html>`_
 
    
 ----------
@@ -72,4 +72,3 @@ Libraries have been developed that simply the interaction with both, the full no
 |
 
 |
-

@@ -18,7 +18,7 @@ Welcome to the documentation portal for the BitShares Blockchain. The content on
 The purpose of this site is to provide in-depth documentation about the BitShares Blockchain and make it easier for users and developers to leverage the full power of the BitShares Blockchain.
 
 - `BitShares.org <https://bitshares.org/>`_ 
-- `BitShares Documentation - Users Guide <http://how.bitshares.works/en/latest/>`_
+- `BitShares Documentation - Users Guide <http://docs.bitshares.eu/en/latest/>`_
 - :ref:`BitShares Community <bitshares-communities>` 
 - `Awesome BitShares Blockchain <https://github.com/bitshares/awesome-bitshares>`_
 - `BitShares News <https://news.bitshares.org/>`_

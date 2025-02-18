@@ -1,4 +1,4 @@
-### how.bitshares.works & dev.bitshares.works 
+### docs.bitshares.eu & docs.bitshares.dev
 
 To be filled.
 

@@ -25,11 +25,11 @@ In this chapter, we define our base directory ``$HOME/`` and create two director
      - uses for your BitShares Private Testnet Project
 	
 	
-* Example files location for this section: /dev.bitshares.works/docs/development/testnets/
+* Example files location for this section: /docs.bitshares.dev/docs/development/testnets/
 
-  - `prv_Get-Dev-Key-used-in-my-genesis.txt (get_dev_key) <https://github.com/bitshares/dev.bitshares.works/blob/master/docs/development/testnets/prv_Get-Dev-Key-used-in-my-genesis.txt>`_
-  - `prv_my-genesis-example-Private-testnet.json (my-genesis.json) <https://github.com/bitshares/dev.bitshares.works/blob/master/docs/development/testnets/prv_my-genesis-example-Private-testnet.json>`_ 
-  - `prv_config-ini-example.txt  (config.ini) <https://github.com/bitshares/dev.bitshares.works/blob/master/docs/development/testnets/prv_config-ini-example.txt>`_
+  - `prv_Get-Dev-Key-used-in-my-genesis.txt (get_dev_key) <https://github.com/bitshares/docs.bitshares.dev/blob/master/docs/development/testnets/prv_Get-Dev-Key-used-in-my-genesis.txt>`_
+  - `prv_my-genesis-example-Private-testnet.json (my-genesis.json) <https://github.com/bitshares/docs.bitshares.dev/blob/master/docs/development/testnets/prv_my-genesis-example-Private-testnet.json>`_
+  - `prv_config-ini-example.txt  (config.ini) <https://github.com/bitshares/docs.bitshares.dev/blob/master/docs/development/testnets/prv_config-ini-example.txt>`_
   
  
 
@@ -888,7 +888,7 @@ This section provides instructions for creating committee members' account.
 
 You would need the committee if you want to change some chain settings, like fees.
 
-- Read more about the `Committees roles in how.bitshares.works. <http://how.bitshares.works/en/latest/bts_holders/community_members.html#committees>`_
+- Read more about the `Committees roles in docs.bitshares.eu. <http://docs.bitshares.eu/en/latest/bts_holders/community_members.html#committees>`_
 
 |
 

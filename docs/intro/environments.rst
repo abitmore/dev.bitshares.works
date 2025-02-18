@@ -38,7 +38,7 @@ BitShares Code and Files
 What's your interests?
 ========================
 
-What would you like to know more about BitShares Blockchain? BitShares Core is the BitShares blockchain implementation and command-line interface. If you are interested to know about BitShares blockchain background, history, and features, please visit `how.bitshares.works <http://how.bitshares.works/en/latest/#>`_ and `bitshares.org <https://bitshares.org/>`_ to read more information. 
+What would you like to know more about BitShares Blockchain? BitShares Core is the BitShares blockchain implementation and command-line interface. If you are interested to know about BitShares blockchain background, history, and features, please visit `docs.bitshares.eu <http://docs.bitshares.eu/en/latest/#>`_ and `bitshares.org <https://bitshares.org/>`_ to read more information.
 
 If yo do not have a BitShares account yet, you can use BitShares UI wallet (`wallet.bitshares.org <https://wallet.bitshares.org>`_ ) or download a `Light Client Wallet <https://bitshares.org/download>`_  to create your BitShares account. Here is the latest `BitShares-UI – Release <https://github.com/bitshares/bitshares-ui/releases>`_ information. 
 
@@ -167,7 +167,7 @@ For a release,
 9. The **release** branch is merged into **master**, and a version tag is created on **master**. Create tag by git command line and then point the release to the created tag in github. This is needed for Docker to catch the new code.
 10. The **release** branch is merged back into **develop** and **hardfork**.
 11. The **release** branch is merged into **testnet**. This will produce a merge conflict for the hardfork dates, which must be resolved without changing the testnet hardfork date.
-12. Update online code documentation by using updated Doxyfile as config file in the master branch. Send pull request to https://github.com/bitshares/doxygen.bitshares.org with new content in html format. Send pull to https://github.com/bitshares/dev.bitshares.works with new content in xml format.
+12. Update online code documentation by using updated Doxyfile as config file in the master branch. Send pull request to https://github.com/bitshares/doxygen.bitshares.org with new content in html format. Send pull to https://github.com/bitshares/docs.bitshares.dev with new content in xml format.
 13. Update date of last core download page of bitshares.org site.
 14. Create binaries for linux, macos and windows. Once the tag name is known create binaries for this 3 OS. Attach them to release notes.
 **Example**: https://github.com/bitshares/bitshares-core/releases/tag/3.0.0 Binaries names for this release:
