@@ -32,7 +32,7 @@ The BitShares uses the DPOS consensus mechanism to vote for the block forge by t
 
   - `BitShares-UI Release <https://github.com/bitshares/bitshares-ui/releases>`_
   - BitShare UI wallet:  https://wallet.bitshares.org
-  - `Create an Account Guide <http://how.bitshares.works/en/latest/user_guide/create_account.html>`_
+  - `Create an Account Guide <http://docs.bitshares.eu/en/latest/user_guide/create_account.html>`_
 
    
 - Not all accounts can be registered for free. Generally, a flat or numeric account can be registered for free, such as my-exchange, or myexchange2017.   

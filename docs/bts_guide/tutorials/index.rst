@@ -40,7 +40,7 @@ API
 
 Assets
 ===========
-* Read: User Guide `BitShartes Assets Tokens <http://how.bitshares.works/en/latest/bts_holders/tokens.html>`_
+* Read: User Guide `BitShartes Assets Tokens <http://docs.bitshares.eu/en/latest/bts_holders/tokens.html>`_
 
   1. User Issued Assets (UIAs)
   2. Market Pegged Assets (MPAs)
@@ -62,7 +62,7 @@ Assets
 Prediction Market
 ------------------
 
-* `What is a  prediction market? <http://how.bitshares.works/en/latest/bts_holders/tokens/pm.html>`_
+* `What is a  prediction market? <http://docs.bitshares.eu/en/latest/bts_holders/tokens/pm.html>`_
 * :ref:`How can I create a Prediction Market (CLI)? <pm-create-manual>`
 * :ref:`How can I close/settle a Prediction Market (CLI)? <pm-close-manual>`
 
@@ -70,11 +70,11 @@ Prediction Market
 BitShares Decentralized Exchange (DEX)
 =========================================
 
-* Read: `User Guide : Dex <https://how.bitshares.works/en/latest/bts_holders/dex.html>`_
+* Read: `User Guide : Dex <https://docs.bitshares.eu/en/latest/bts_holders/dex.html>`_
 
-  1. `Trading <https://how.bitshares.works/en/latest/bts_holders/dex_trading.html>`_
-  2. `Short Selling BitAssets <https://how.bitshares.works/en/latest/bts_holders/dex_short.html>`_ 
-  3. `MarginCall Mechanics <https://how.bitshares.works/en/latest/bts_holders/dex_margin_mechanics.html>`_ 
+  1. `Trading <https://docs.bitshares.eu/en/latest/bts_holders/dex_trading.html>`_
+  2. `Short Selling BitAssets <https://docs.bitshares.eu/en/latest/bts_holders/dex_short.html>`_
+  3. `MarginCall Mechanics <https://docs.bitshares.eu/en/latest/bts_holders/dex_margin_mechanics.html>`_
   
 * :ref:`How can I run own Decentralized Exchange (DEX)? <distributed-access-to-dex>`
 * :ref:`How can I prepare BitShares Exchange? (Single Node Edition) <exchange-single-node>`
@@ -101,7 +101,7 @@ Committee Guide
 
 Delegated Proof of Stake 
 ============================
-* Read" User Guide `(DPOS) <https://how.bitshares.works/en/latest/technology/dpos.html#>`_
+* Read" User Guide `(DPOS) <https://docs.bitshares.eu/en/latest/technology/dpos.html#>`_
 
 
 Keys
@@ -244,5 +244,3 @@ Migration (from BitShares1.0)
 |
 
 ----------------------
-
- 

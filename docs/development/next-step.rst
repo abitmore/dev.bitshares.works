@@ -12,30 +12,30 @@ BitShares offers many features, after the bitshares-core installation, you might
 Know more about how BitShares Works
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Check `How BitShares Works <http://how.bitshares.works/en/latest/index.html>`_ Guide
+- Check `How BitShares Works <http://docs.bitshares.eu/en/latest/index.html>`_ Guide
 - Understand :ref:`BitShares Accounts <index-bts-accounts>` Features
-- Read about Types of `Asset Tokens <http://how.bitshares.works/en/latest/bts_holders/tokens.html>`_
+- Read about Types of `Asset Tokens <http://docs.bitshares.eu/en/latest/bts_holders/tokens.html>`_
 
 
 Create a BitShares GUI wallet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Check `BitShares-UI Release <https://github.com/bitshares/bitshares-ui/releases>`_
-- Read how to create `BitShares UI Wallet  <http://how.bitshares.works/en/latest/user_guide/create_account.html>`_ steps 
-- Understand `BitShares Client and Login Mode <http://how.bitshares.works/en/latest/user_guide/bitshares-client.html>`_ 
+- Read how to create `BitShares UI Wallet  <http://docs.bitshares.eu/en/latest/user_guide/create_account.html>`_ steps
+- Understand `BitShares Client and Login Mode <http://docs.bitshares.eu/en/latest/user_guide/bitshares-client.html>`_
 - Know :ref:`where to find public/private keys (GUI) <where-pub-prv-keys>`
 
 Know how to Backup/Restore (GUI) 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-- Understand `How to Backup and Restore your wallet <http://how.bitshares.works/en/latest/user_guide/backup_local_wallet.html>`_ 
+- Understand `How to Backup and Restore your wallet <http://docs.bitshares.eu/en/latest/user_guide/backup_local_wallet.html>`_
 
 
 Create and launch a CLI wallet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-- Understand `CLI Client and Wallet -  Connectivity <https://dev.bitshares.works/en/master/development/apps/cli_intro.html>`_
-- Learn how to `Connecte a CLI wallet <https://dev.bitshares.works/en/master/development/apps/cli_wallet.html>`_  
+- Understand `CLI Client and Wallet -  Connectivity <https://docs.bitshares.dev/en/master/development/apps/cli_intro.html>`_
+- Learn how to `Connecte a CLI wallet <https://docs.bitshares.dev/en/master/development/apps/cli_wallet.html>`_
 - Learn how to :ref:`set up Secure Network and Wallet Configuration <secure-network-configuration>`
 - Know how to :ref:`import a GUI-wallet account into CLI-wallet <howto-import-gui-wallet-account-cli>`
 
@@ -94,15 +94,5 @@ Know about BSIPs
 |
 
 
-
-
-	
-	
-	
-	
-	
-	
-	 
-	
 |
 

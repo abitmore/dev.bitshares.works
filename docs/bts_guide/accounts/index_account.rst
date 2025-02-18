@@ -27,13 +27,10 @@ In this section, we introduce you some of the important functionalities to get f
 
 -----------------------------
 
-.. note:: BitShares Account section in the dev.bitshares.works and the how.bitshares.works are the same contents. For searching purpose, having pages in both sites.
+.. note:: BitShares Account section in the docs.bitshares.dev and the docs.bitshares.eu are the same contents. For searching purpose, having pages in both sites.
 	
 |
 
 
 
 
-		
-		
-		
