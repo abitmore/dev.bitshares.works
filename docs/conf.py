@@ -20,7 +20,7 @@ import subprocess
 sys.path.append(os.path.abspath('./docs/'))
 #sys.path.append(os.path.abspath('./demo/'))
 #sys.path.append( "./ext/breathe/" )
-sys.path.append(os.path.abspath('./ext/breathe/'))
+#sys.path.append(os.path.abspath('./ext/breathe/'))
 
 from sphinx.locale import _
 from sphinx_rtd_theme import __version__
@@ -48,6 +48,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
 	'sphinx.ext.todo', 
     'breathe',
+    'sphinx_rtd_theme',
 ]
 
 # Do not warn about external images (status badges in README.rst)
@@ -146,7 +147,7 @@ html_theme_options = {
 
 # Add any paths that contain custom themes here, relative to this directory.
 ##html_theme_path = ["../.."]
-html_theme_path = ['_themes']
+html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -280,7 +281,7 @@ except :
 #   styles  
 ###############################################################################
 def setup(app):
-    app.add_stylesheet("btsdefault.css") # also can be a full URL
+    app.add_css_file("btsdefault.css") # also can be a full URL
     # app.add_stylesheet("ANOTHER.css")
 	# from sphinx.domains.python import PyField
     # from sphinx.util.docfields import Field
