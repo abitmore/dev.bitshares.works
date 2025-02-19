@@ -280,7 +280,7 @@ except :
 #   styles  
 ###############################################################################
 def setup(app):
-    app.add_stylesheet("btsdefault.css") # also can be a full URL
+    app.add_css_file("btsdefault.css") # also can be a full URL
     # app.add_stylesheet("ANOTHER.css")
 	# from sphinx.domains.python import PyField
     # from sphinx.util.docfields import Field
